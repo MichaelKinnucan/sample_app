@@ -1,0 +1,1 @@
+This is the sample app from ruby.railstutorial.org Chapter 3
